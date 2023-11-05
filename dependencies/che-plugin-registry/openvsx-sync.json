@@ -3,6 +3,9 @@
         "id": "donjayamanne.githistory"
     },
     {
+        "id": "amazonwebservices.aws-toolkit-vscode"
+    },
+    {
         "id": "redhat.vscode-xml"
     },
     {
@@ -66,15 +69,6 @@
         "id": "vscjava.vscode-java-test"
     },
     {
-        "id": "redhat.vscode-microprofile"
-    },
-    {
-        "id": "vscode.html-language-features"
-    },
-    {
-        "id": "redhat.vscode-quarkus"
-    },
-    {    
         "id": "redhat.fabric8-analytics"
     },
     {
@@ -82,15 +76,6 @@
     },
     {
         "id": "redhat.vscode-openshift-connector"
-    },
-    {
-        "id": "xdebug.php-debug"
-    },
-    {
-        "id": "ms-dotnettools.vscode-dotnet-runtime"
-    },
-    {
-        "id": "muhammad-sammy.csharp"
     },
     {
         "id": "SonarSource.sonarlint-vscode"
@@ -111,18 +96,6 @@
         "id": "redhat.vscode-tekton-pipelines"
     },
     {
-        "id": "atlassian.atlascode"
-    },
-    {
-        "id": "JFrog.jfrog-vscode-extension"
-    },
-    {
-        "id": "SonatypeCommunity.vscode-iq-plugin"
-    },
-    {
-        "id": "GitLab.gitlab-workflow"
-    },
-    {
         "id": "timonwong.shellcheck"
     },
     {
@@ -136,5 +109,8 @@
     },
     {
         "id": "eamodio.gitlens"
+    },
+    {
+        "id": "genuitecllc.codetogether"
     }
 ]

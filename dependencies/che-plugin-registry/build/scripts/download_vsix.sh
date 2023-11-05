@@ -92,7 +92,8 @@ getVersions(){
 }
 
 echo "Scripts branch=${scriptBranch}"
-codeVersion=$(curl -sSlko- https://raw.githubusercontent.com/redhat-developer/devspaces-images/"${scriptBranch}"/devspaces-code/code/package.json | jq -r '.version')
+# codeVersion=$(curl -sSlko- https://raw.githubusercontent.com/redhat-developer/devspaces-images/"${scriptBranch}"/devspaces-code/code/package.json | jq -r '.version')
+codeVersion=$(curl -sSlko- https://raw.githubusercontent.com/redhat-developer/devspaces-images/devspaces-3-rhel-8/devspaces-code/code/package.json | jq -r '.version')
 echo "Che Code version=${codeVersion}"
 
 # Check if the information about the current branch is empty
